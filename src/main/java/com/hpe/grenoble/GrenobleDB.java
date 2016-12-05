@@ -27,7 +27,7 @@ public class GrenobleDB {
 	arr.add(new GrenobleDB(14, "Caroline","Herschel",24));
 	arr.add(new GrenobleDB(15, "Cecilia","Payne",20));
 	arr.add(new GrenobleDB(16, "Chien","Shiung",25));
-	arr.add(new GrenobleDB(17, "Max","Born",29));
+	arr.add(new GrenobleDB(17, "vijay","Born",29));
 	arr.add(new GrenobleDB(18, "Sumit","Kumar",22));
 	arr.add(new GrenobleDB(19, "Mildred","Dresselhaus",25));
 	arr.add(new GrenobleDB(20, "Niels","Bohr",23));
